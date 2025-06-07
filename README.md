@@ -195,3 +195,7 @@ This project is a practical implementation of end-to-end machine learning workfl
 * Reporting
 
 # Output
+
+![Image](https://github.com/user-attachments/assets/8ba56f7c-ece4-42df-a06a-5c91ff30218e)
+
+![Image](https://github.com/user-attachments/assets/8578f1b4-f236-4271-b5fd-33559c7a96fe)
